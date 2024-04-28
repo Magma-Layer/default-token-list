@@ -16,7 +16,7 @@ Token Address:
 Token Name (from contract): 
 Token Decimals (from contract): 
 Token Symbol (from contract): 
-Uniswap V2 Pair Address of Token: 
+Swap Pair Address of Token: 
 
 Link to the official homepage of token:
 Link to CoinMarketCap or CoinGecko page of token: 
