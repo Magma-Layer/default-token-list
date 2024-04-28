@@ -1,7 +1,5 @@
 # @magma-layer/default-token-list
 
-[![Tests](https://github.com/Magma-Layer/default-token-list/workflows/Tests/badge.svg)](https://github.com/Magma-Layer/default-token-list/actions?query=workflow%3ATests)
-
 This GitHub repo contains the default token list used in the MagmaLayer interface.
 
 ## Adding a token
