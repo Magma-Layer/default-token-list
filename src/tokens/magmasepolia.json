@@ -1,0 +1,10 @@
+[
+    {
+        "chainId": 696969,
+        "address": "0x131761d30a124830afcf503b84b4184c19596307",
+        "name": "USD Magma Coin",
+        "symbol": "USDM",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Mantle-Protocol/assets/master/blockchains/ethereum/assets/0x131761D30a124830AFcF503B84b4184C19596307/logo.png"
+    }
+]

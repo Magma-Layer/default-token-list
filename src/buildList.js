@@ -1,9 +1,5 @@
 const { version } = require("../package.json");
 const mainnet = require("./tokens/mainnet.json");
-const ropsten = require("./tokens/ropsten.json");
-const rinkeby = require("./tokens/rinkeby.json");
-const goerli = require("./tokens/goerli.json");
-const kovan = require("./tokens/kovan.json");
 const polygon = require("./tokens/polygon.json");
 const mumbai = require("./tokens/mumbai.json");
 const optimism = require("./tokens/optimism.json");
@@ -13,6 +9,7 @@ const bnb = require("./tokens/bnb.json");
 const sepolia = require("./tokens/sepolia.json");
 const avalanche = require("./tokens/avalanche.json");
 const base = require("./tokens/base.json");
+const magmasepolia = require("./tokens/magmasepolia.json");
 
 const bridgeUtils = require('@uniswap/token-list-bridge-utils');
 
@@ -31,10 +28,6 @@ module.exports = function buildList() {
     keywords: ["uniswap", "default"],
     tokens: [
       ...mainnet,
-      ...ropsten,
-      ...goerli,
-      ...kovan,
-      ...rinkeby,
       ...polygon,
       ...mumbai,
       ...optimism,
@@ -43,7 +36,8 @@ module.exports = function buildList() {
       ...bnb,
       ...sepolia,
       ...avalanche,
-      ...base
+      ...base,
+      ...magmasepolia
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
