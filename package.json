@@ -1,5 +1,5 @@
 {
-  "name": "@magma-layer/default-token-list",
+  "name": "@magmalayer/default-token-list",
   "version": "11.18.0",
   "description": "The Magma Layer default token list",
   "main": "build/magma-layer-default.tokenlist.json",
