@@ -10,6 +10,8 @@ const sepolia = require("./tokens/sepolia.json");
 const avalanche = require("./tokens/avalanche.json");
 const base = require("./tokens/base.json");
 const magmasepolia = require("./tokens/magmasepolia.json");
+const berachaintestnet = require("./tokens/berachaintestnet.json");
+
 
 const bridgeUtils = require('@uniswap/token-list-bridge-utils');
 
@@ -37,6 +39,7 @@ module.exports = function buildList() {
       ...sepolia,
       ...avalanche,
       ...base,
+      ...berachaintestnet,
       ...magmasepolia
     ]
       // sort them by symbol for easy readability
