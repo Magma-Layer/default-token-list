@@ -1,6 +1,6 @@
 {
   "name": "@magmalayer/default-token-list",
-  "version": "11.18.0",
+  "version": "1.0.1",
   "description": "The Magma Layer default token list",
   "main": "build/magma-layer-default.tokenlist.json",
   "scripts": {
@@ -9,7 +9,7 @@
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/uniswap-default.tokenlist.json"
+    "build/magma-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "hwonder",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Magma-layer/default-token-list/issues"

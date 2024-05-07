@@ -1,35 +1,4 @@
-{
-    "name": "Berachain Testnet Default Token List",
-    "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-    "keywords": ["testnet"],
-    "tags": {
-      "stablecoin": {
-        "name": "Stablecoin",
-        "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
-      },
-      "collateral": {
-        "name": "Collateral",
-        "description": "Tokens that are used to mint Honey"
-      },
-      "defaultCollateral": {
-        "name": "Default Collateral",
-        "description": "default token used in Honey"
-      },
-      "featured": {
-        "name": "Featured",
-        "description": "Tokens that are featured"
-      },
-      "debt": {
-        "name": "Debt Token",
-        "description": "Tokens that are representing debt"
-      },
-      "aToken": {
-        "name": "Supply Token",
-        "description": "Tokens that are representing supply"
-      }
-    },
-  
-    "tokens": [
+[
       {
         "chainId": 2061,
         "address": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F",
@@ -111,11 +80,4 @@
         "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
         "tags": ["aToken"]
       }
-    ],
-    "gaugeMap": {},
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
-    }
-  }
+    ]
