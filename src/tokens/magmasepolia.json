@@ -6,5 +6,33 @@
         "symbol": "USDM",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Mantle-Protocol/assets/master/blockchains/ethereum/assets/0x131761D30a124830AFcF503B84b4184C19596307/logo.png"
+    },{
+        "chainId": 696969,
+        "address": "0xa653eef72d5141e4c3c6c8b66f66e6a42af85958",
+        "name": "wLAVA",
+        "symbol": "wLAVA",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Magma-Layer/default-token-list/main/assets/lava.png"
+    },{
+        "chainId": 696969,
+        "address": "0xaac5eecd28324faaa7c8d6810773f82523b986db",
+        "name": "wBTC",
+        "symbol": "wBTC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Magma-Layer/default-token-list/main/assets/wbtc.png"    
+    },{
+        "chainId": 696969,
+        "address": "0x15dA85eAD7C729F5654DFffaC5ef72305A7B8405",
+        "name": "ROCK",
+        "symbol": "ROCK",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Magma-Layer/default-token-list/main/assets/rock.png"
+    },{
+        "chainId": 696969,
+        "address": "0xde42497b5cee8181231e395d49818e24a6e40e56",
+        "name": "ezBTC",
+        "symbol": "ezBTC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Magma-Layer/default-token-list/main/assets/ezbtc.png"
     }
 ]
