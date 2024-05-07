@@ -1,21 +1,21 @@
 [
     {
         "chainId": 696969,
-        "address": "0x131761d30a124830afcf503b84b4184c19596307",
+        "address": "0x131761D30a124830AFcF503B84b4184C19596307",
         "name": "USD Magma Coin",
         "symbol": "USDM",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Mantle-Protocol/assets/master/blockchains/ethereum/assets/0x131761D30a124830AFcF503B84b4184C19596307/logo.png"
     },{
         "chainId": 696969,
-        "address": "0xa653eef72d5141e4c3c6c8b66f66e6a42af85958",
+        "address": "0xa653EEf72d5141E4C3c6C8b66F66E6A42aF85958",
         "name": "wLAVA",
         "symbol": "wLAVA",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Magma-Layer/default-token-list/main/assets/lava.png"
     },{
         "chainId": 696969,
-        "address": "0xaac5eecd28324faaa7c8d6810773f82523b986db",
+        "address": "0xAAc5eecd28324faaA7C8d6810773F82523B986Db",
         "name": "wBTC",
         "symbol": "wBTC",
         "decimals": 18,
@@ -29,7 +29,7 @@
         "logoURI": "https://raw.githubusercontent.com/Magma-Layer/default-token-list/main/assets/rock.png"
     },{
         "chainId": 696969,
-        "address": "0xde42497b5cee8181231e395d49818e24a6e40e56",
+        "address": "0xDE42497B5cEe8181231E395d49818E24a6E40E56",
         "name": "ezBTC",
         "symbol": "ezBTC",
         "decimals": 18,
